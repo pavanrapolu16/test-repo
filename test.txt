@@ -1,0 +1,6 @@
+This is a deployment test file.
+
+If you can access this file from:
+https://deployease.app/test.txt
+
+then static file serving is working correctly.
